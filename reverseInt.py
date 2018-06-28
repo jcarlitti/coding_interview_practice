@@ -1,3 +1,4 @@
+#This is only for positive integers
 def main():
 	x = 123
 	num = reverse(x)
