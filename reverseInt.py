@@ -1,7 +1,7 @@
 def main():
 	x = 123
 	num = reverse(x)
-    print num
+    	print num
 	
 def reverse(x):
 	revNum = 0
